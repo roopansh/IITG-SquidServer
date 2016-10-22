@@ -16,3 +16,13 @@ Then enter the required details.
     squidSetup.sh
     
 NOTE : It doesn't delete the previous user authentication. You would have to manually delete it
+
+# To be Added
+
+admin login
+
+cache service
+
+delay pools
+
+you tell
