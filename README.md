@@ -24,5 +24,3 @@ admin login
 cache service
 
 delay pools
-
-you tell
