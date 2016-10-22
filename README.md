@@ -1,5 +1,5 @@
 # IITG-SquidServer
-Sets up a squid proxy server on your PC. 
+For IIT-Guwahati , this script sets up a squid proxy server on your PC . 
 
 # HOW TO
     
@@ -13,7 +13,7 @@ Then enter the required details.
     
 # TO ADD NEW USER AUTHENTICATION
 
-    squidSetup.sh
+    sudo bash NewUser.sh
     
 NOTE : It doesn't delete the previous user authentication. You would have to manually delete it
 
