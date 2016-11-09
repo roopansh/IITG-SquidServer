@@ -22,6 +22,8 @@ CheckSquid(){
 			fi
 	else
 		echo "Squid Already installed."
+		mkdir SquidBackup
+		mv /etc/squid/* SquidBackup/
 		echo
 	fi
 	Backup
